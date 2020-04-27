@@ -1,0 +1,33 @@
+[
+    {
+       "empresa":{
+          "proa":{
+             "endereco":{
+                "cep":"01014-001",
+                "logradouro":"Rua Boa Vista",
+                "complemento":"lado ímpar",
+                "bairro":"Centro",
+                "localidade":"São Paulo",
+                "uf":"SP"
+             },
+             "funcionarios":[
+                {
+                   "nome":"Gésner Almeida",
+                   "cargo":"desenvolvedor junior",
+                   "salario":"2500"
+                },
+                {
+                   "nome":"Bruno Carvalho",
+                   "cargo":"desenvolvedor pleno",
+                   "salario":"5000"
+                },
+                {
+                   "nome":"Pedro Santos",
+                   "cargo":"dba junior",
+                   "salario":"3000"
+                }
+             ]
+          }
+       }
+    }
+ ]
